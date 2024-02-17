@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\bin\Debug\Task manager System.exe.config
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\bin\Debug\Task manager System.exe
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\bin\Debug\Task manager System.pdb
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Views\MainWindow.g.cs
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System_MarkupCompile.cache
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System_MarkupCompile.lref
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Views\MainWindow.baml
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System.g.resources
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task_manager_System.Properties.Resources.resources
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System.csproj.CopyComplete
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System.exe
+C:\Users\User\Desktop\TaskManager-Task-master\Task manager System\obj\Debug\Task manager System.pdb
